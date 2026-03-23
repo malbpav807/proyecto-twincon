@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[es_ES]=/usr/share/bienvenida/img/educa.ico
+Name[es_ES]=Educa en Digital
+Exec=firefox /usr/share/bienvenida/index.html 
+Name=Educa en Digital
+Icon=/usr/share/bienvenida/img/educa.ico
